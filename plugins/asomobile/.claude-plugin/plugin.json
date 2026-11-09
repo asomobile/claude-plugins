@@ -1,0 +1,35 @@
+{
+  "name": "asomobile",
+  "displayName": "ASOMobile",
+  "version": "0.1.0",
+  "description": "App Store and Google Play ASO data from ASOMobile: keyword traffic and competition, app indexing, competitors, top charts, organic downloads, Keyword Monitor. Includes ASO research skills.",
+  "author": {
+    "name": "ASOMobile",
+    "url": "https://asomobile.net"
+  },
+  "homepage": "https://api.asomobile.net/mcp-server-for-ai-agents-2515048m0",
+  "repository": "https://github.com/asomobile/claude-plugins",
+  "documentationUrl": "https://api.asomobile.net/mcp-server-for-ai-agents-2515048m0",
+  "supportUrl": "https://help.asomobile.net/en/",
+  "privacyPolicyUrl": "https://app.asomobile.net/assets/terms/Privacy%20Policy%20-%20ASOMobile.pdf",
+  "termsOfServiceUrl": "https://app.asomobile.net/assets/terms/Terms%20of%20Use%20-%20ASOMobile.pdf",
+  "icon": "./icon.png",
+  "license": "MIT",
+  "keywords": [
+    "aso",
+    "app-store-optimization",
+    "app-store",
+    "google-play",
+    "keywords",
+    "mobile-marketing"
+  ],
+  "userConfig": {
+    "asomobile_api_token": {
+      "type": "string",
+      "title": "ASOMobile API token",
+      "description": "Personal API token from your ASOMobile account (app.asomobile.net → API Dashboard). Requests spend the API tokens of your plan.",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}

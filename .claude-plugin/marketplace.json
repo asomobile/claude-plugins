@@ -1,0 +1,25 @@
+{
+  "name": "asomobile",
+  "description": "ASOMobile plugins for Claude Code: App Store and Google Play ASO data (MCP server) and ASO research skills",
+  "owner": {
+    "name": "ASOMobile",
+    "url": "https://asomobile.net"
+  },
+  "plugins": [
+    {
+      "name": "asomobile",
+      "source": "./plugins/asomobile",
+      "description": "ASOMobile MCP server (keyword metrics, app indexing, competitors, top charts, organic downloads) plus ASO research skills",
+      "category": "marketing",
+      "tags": [
+        "aso",
+        "app-store",
+        "google-play",
+        "keywords",
+        "mobile",
+        "analytics"
+      ],
+      "homepage": "https://api.asomobile.net/mcp-server-for-ai-agents-2515048m0"
+    }
+  ]
+}
