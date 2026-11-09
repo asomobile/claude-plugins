@@ -4,7 +4,7 @@ Official plugin marketplace of [ASOMobile](https://asomobile.net): App Store and
 
 | Plugin | What it does |
 |---|---|
-| [`asomobile`](plugins/asomobile/) | Connects Claude Code to the ASOMobile MCP server (keyword metrics, app indexing, competitors, top charts, reviews, Apple Search Ads, Keyword Monitor) and adds three ASO skills: keyword research, competitor audit, metadata review. |
+| [`asomobile`](plugins/asomobile/) | Connects Claude Code to the ASOMobile MCP server (keyword metrics, app indexing, competitors, top charts, reviews, Apple Search Ads, Keyword Monitor) and adds six ASO skills: keyword research, competitor audit, metadata review, market expansion, weekly report, Apple Search Ads planning. |
 
 ## Install
 

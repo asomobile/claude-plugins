@@ -9,7 +9,7 @@
     {
       "name": "asomobile",
       "source": "./plugins/asomobile",
-      "description": "ASOMobile MCP server (keyword metrics, app indexing, competitors, top charts, organic downloads) plus ASO research skills",
+      "description": "ASOMobile MCP server (keywords, app indexing, competitors, top charts, reviews, Apple Search Ads, Keyword Monitor) plus six ASO skills",
       "category": "marketing",
       "tags": [
         "aso",

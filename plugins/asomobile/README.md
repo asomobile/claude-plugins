@@ -1,10 +1,13 @@
 # ASOMobile plugin for Claude Code
 
-App Store and Google Play ASO data inside Claude: keyword traffic and competition, app indexing, competitors, top charts, reviews, Apple Search Ads, organic download estimates and Keyword Monitor. The plugin connects Claude Code to the official [ASOMobile MCP server](https://api.asomobile.net/mcp-server-for-ai-agents-2515048m0) (29 tools, one per public API method) and adds three ASO skills:
+App Store and Google Play ASO data inside Claude: keyword traffic and competition, app indexing, competitors, top charts, reviews, Apple Search Ads, organic download estimates and Keyword Monitor. The plugin connects Claude Code to the official [ASOMobile MCP server](https://api.asomobile.net/mcp-server-for-ai-agents-2515048m0) (29 tools, one per public API method) and adds six ASO skills:
 
 - `/asomobile:aso-keyword-research` — build or expand a semantic core for an app;
 - `/asomobile:aso-competitor-audit` — compare an app with its competitors and find keyword gaps;
-- `/asomobile:aso-metadata-review` — audit and rewrite store metadata against target keywords.
+- `/asomobile:aso-metadata-review` — audit and rewrite store metadata against target keywords;
+- `/asomobile:aso-market-expansion` — choose new countries and plan a localisation;
+- `/asomobile:aso-weekly-report` — weekly or monthly status report for a tracked app: ranks, charts, reviews;
+- `/asomobile:asa-keyword-planning` — Apple Search Ads keyword plan from competitors' paid keywords.
 
 ## Install
 
