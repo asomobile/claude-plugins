@@ -9,6 +9,8 @@ App Store and Google Play ASO data inside Claude: keyword traffic and competitio
 - `/asomobile:aso-weekly-report` — weekly or monthly status report for a tracked app: ranks, charts, reviews;
 - `/asomobile:asa-keyword-planning` — Apple Search Ads keyword plan from competitors' paid keywords.
 
+Using Claude on the web, Desktop or mobile instead? Add the connector from the directory: [claude.ai/directory/asomobile](https://claude.ai/directory/asomobile).
+
 ## Install
 
 ```bash
