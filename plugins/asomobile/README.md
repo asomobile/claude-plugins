@@ -7,7 +7,7 @@ App Store and Google Play ASO data inside Claude: keyword traffic and competitio
 - `/asomobile:aso-metadata-review` — audit and rewrite store metadata against target keywords;
 - `/asomobile:aso-market-expansion` — choose new countries and plan a localisation;
 - `/asomobile:aso-weekly-report` — weekly or monthly status report for a tracked app: ranks, charts, reviews;
-- `/asomobile:asa-keyword-planning` — Apple Search Ads keyword plan from competitors' paid keywords.
+- `/asomobile:asa-keyword-planning` — Apple Ads (Apple Search Ads) keyword plan from competitors' paid keywords.
 
 Using Claude on the web, Desktop or mobile instead? Add the connector from the directory: [claude.ai/directory/asomobile](https://claude.ai/directory/asomobile).
 
@@ -22,10 +22,13 @@ Claude Code asks for your **ASOMobile API token** once. Get it in your account a
 
 ## Try it
 
-- "Check the keyword *taxi* in the US App Store."
-- "Which keywords is id284882215 indexed for in Germany? Show the top 50 by traffic."
+- "Check the keyword *taxi* in the US App Store and build a semantic core around it."
+- "What do users complain about in Duolingo's recent App Store reviews?"
+- "Which keywords drive Spotify's organic installs on Google Play in the US?"
 - "Run a competitor audit for com.example.app on Google Play, US."
 - "Review the metadata of id284882215 for the UK store."
+
+Name an app or give its store id (`id284882215`, `com.example.app`): Claude finds the id by name when needed, and that lookup is free.
 
 ## Update
 
